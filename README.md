@@ -17,7 +17,9 @@ I'm a Software Engineering Student passionate about Front-End Development, Artif
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
+![Java](https://img.shields.io/badge/-Java?style=flat&logo=Java&logoColor=ED8B00&label=Java&labelColor=000000&color=ED8B00)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+
 
 ##  Skills
 
